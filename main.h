@@ -4,4 +4,5 @@
 int _putchar(char c);
 int _printf(const char *format, ...);
 
+int get_flags(const char *format, int *i);
 #endif
